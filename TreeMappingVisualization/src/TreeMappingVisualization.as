@@ -12,6 +12,9 @@ package {
 			initComponents();
 			
 			buildSprite();
+//			var test:TreeTest = new TreeTest();
+			//var test:XMLTreeTest = new XMLTreeTest();
+
 		}
 		
 		private function initComponents():void
@@ -23,3 +26,6 @@ package {
 		}
 	}
 }
+
+
+
