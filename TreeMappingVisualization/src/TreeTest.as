@@ -178,7 +178,7 @@ package
 		
 		private function addImage(n:NodeSprite, num:Number):DisplayObject
 		{
-			if(num > 15) 
+			if(num > 0) 
 			{
 				var tf:TextField = new TextField();
 				tf.text = num.toString();
